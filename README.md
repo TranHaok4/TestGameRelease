@@ -1,2 +1,0 @@
-# TestGameRelease
-demo web
